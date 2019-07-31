@@ -1,0 +1,30 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+    font: 12px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+}
+
+html {
+    background: #fff;
+    color: #3a3a3a
+}
+
+fieldset,
+img,
+a img {
+    border: 0 none;
+}
+
+.layout {
+    width: 1200px;
+    margin: 0 auto
+}
